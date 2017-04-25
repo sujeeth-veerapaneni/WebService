@@ -1,0 +1,38 @@
+﻿[
+  {
+    "HealthID": 1,
+    "FirstName": "Ashok",
+    "LastName": "vkm",
+    "Email": "health1@gmail.com",
+    "PhoneNumber": 4847894568,
+    "Status": "Active"
+
+  },
+  {
+    "HealthID": 2,
+    "FirstName": "Ashok2",
+    "LastName": "vkm",
+    "Email": "health2@gmail.com",
+    "PhoneNumber": 4847894568,
+    "Status": "Inactive"
+
+  },
+  {
+    "HealthID": 3,
+    "FirstName": "Ashok3",
+    "LastName": "vkmew",
+    "Email": "health3@gmail.com",
+    "PhoneNumber": 4847894568,
+    "Status": "Active"
+
+  },
+  {
+    "HealthID": 4,
+    "FirstName": "Ashok4",
+    "LastName": "vkmwerrw",
+    "Email": "health4@gmail.com",
+    "PhoneNumber": 4847894568,
+    "Status": "Inactive"
+
+  }
+]
